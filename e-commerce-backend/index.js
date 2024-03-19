@@ -17,7 +17,7 @@ app.use(express.json());
 app.use(cors());  
 
 // Database Connection With MongoDB
-mongoose.connect("mongodb+srv://Krithi:****@atlascluster.l3tvc6z.mongodb.net/e-commerce");
+mongoose.connect("mongodb+srv://Krithi:abcdefghij@atlascluster.l3tvc6z.mongodb.net/e-commerce");
 
 
 //Image Storage Engine 
